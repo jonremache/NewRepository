@@ -1,0 +1,30 @@
+body {
+
+background-color: #e3f2fd;
+text-align: center;
+}
+.site-footer {
+  background: orange;
+}
+h1 {
+
+
+padding: 10px;
+border: 5px ridge #330000;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 25px 25px 25 px;
+    text-align: left;
+     background-image: linear-gradient(skyblue,#8FA5CE);
+     
+    }
+/* Zoom In #1 */
+.hover01 fgure img{
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+  -webkit-transform:scale(1.3);
+  transform: scale(1.3);

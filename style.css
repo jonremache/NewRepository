@@ -1,0 +1,21 @@
+form {
+background-color: DodgerBlue;
+font-family: Arial, sans-serif;
+padding: 10px;
+}
+label {
+float: center;
+width: 100px;
+clear: center;
+text-align: right;
+padding-right: 10px;
+marging-top: 10px;
+}
+input, textarea { margin-top: 10px;
+display: block;}
+#mySubmit { margin-left: 100px; }
+
+#sun {float:right;
+margin: 0 0 5px 5px;
+border: 10px solid #000000
+}
